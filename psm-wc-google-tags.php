@@ -7,7 +7,7 @@
  * Author Name: Harrison Callahan
  * Author URI:  https://harrisoncallahan.com
  * 
- * Version:     1.0.0
+ * Version:     1.1.0
  */
 
 if (!defined('ABSPATH')) die('Direct access not allowed');

@@ -1,0 +1,12 @@
+{
+    "name": "bracketbear/psm-wc-google-tags",
+    "type": "wordpress-plugin",
+    "version": "1.1.0",
+    "require": {
+        "composer/installers": "^1.0"
+    },
+    "authors": [{
+        "name": "Harrison Callahan",
+        "email": "harrison@harrisoncallahan.com"
+    }]
+}
